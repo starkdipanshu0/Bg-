@@ -16,7 +16,7 @@ import {
   TouchableOpacity,
   View,
 } from 'react-native';
-
+//uygfvyv
 
 function App(): React.JSX.Element {
   const [bg,setBg]=useState('#ff006e')
